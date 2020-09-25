@@ -1,1 +1,1 @@
-web: gunicorn muqs.wsgi --log-file -
+web: gunicorn muqs.wsgi
